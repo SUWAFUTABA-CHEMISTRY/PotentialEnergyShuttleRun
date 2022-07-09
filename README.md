@@ -1,1 +1,1 @@
-# 位置エネルギーシャトルラン(Pottential Energy Shuttle Run)
+# 位置エネルギーシャトルラン
